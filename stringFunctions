@@ -1,0 +1,10 @@
+#diff functions with strings
+#check whats in at 3 in the array
+phrase = "which characterDoYouWantToGrab"
+print(phrase[3])
+
+#check where is a in the array
+print(phrase.index("a"))
+
+#replay phrase
+print(phrase.replace("which" , "how"))
