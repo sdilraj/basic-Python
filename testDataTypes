@@ -1,0 +1,11 @@
+# Three main Data types
+
+character_name = "John"
+character_age = "35"
+is_male = True
+
+print("Hi " + character_name)
+
+character_name = "Tom"
+print("Hello " + character_name)
+print("Hello " + character_name)
