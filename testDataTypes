@@ -9,3 +9,7 @@ print("Hi " + character_name)
 character_name = "Tom"
 print("Hello " + character_name)
 print("Hello " + character_name)
+
+#returns false if the string is not all upper case
+phrase = "Learn Basketball"
+print(phrase.isupper())
